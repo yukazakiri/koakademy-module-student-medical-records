@@ -2,13 +2,13 @@
     "name": "StudentMedicalRecords",
     "alias": "student-medical-records",
     "composer_package": "koakademy/student-medical-records",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "description": "Confidential student medical records, clinic visits, and reporting tools.",
     "author": "KoAkademy contributors",
     "license": "AGPL-3.0-or-later",
     "requires": {
-        "core": ">=1.20.0",
-        "php": ">=8.5",
+        "core": ">=1.29.0",
+        "php": ">=8.5.12 <8.6",
         "modules": {}
     },
     "compatibility": {
